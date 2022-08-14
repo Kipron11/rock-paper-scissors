@@ -1,6 +1,6 @@
 import React from 'react';
 import Player from './Player/Player';
-import {PunchModel} from '../../models/PunchModel';
+import { PunchModel } from '../../models/PunchModel';
 
 type PlayersProps = {
     playerScore: number,

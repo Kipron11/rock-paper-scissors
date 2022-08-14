@@ -1,5 +1,5 @@
 import React from 'react';
-import {PunchModel} from '../../../models/PunchModel';
+import { PunchModel } from '../../../models/PunchModel';
 
 type PlayerProps = {
     name: string,
